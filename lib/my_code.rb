@@ -8,7 +8,7 @@
 return new
 end
 
-def map_to_ no_change(source_array)
+def map_to_no_change(source_array)
   new = []
   i = 0 
   while i < source_array.length do
