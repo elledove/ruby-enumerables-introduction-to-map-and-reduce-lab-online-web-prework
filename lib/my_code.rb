@@ -8,5 +8,9 @@
 return new
 end
 
-def  
+def map_to_change(source_array)
+  new = []
+  i = 0 
+  while i > source_array.length do
+    new.push (source_array [])
 # My Code here....
