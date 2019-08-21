@@ -42,5 +42,5 @@ end
 def reduce_to_total(source_array , starting_point)
   new = []
   i = 0 
-  whi
+  while
 # My Code here....
